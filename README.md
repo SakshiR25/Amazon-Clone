@@ -1,1 +1,1 @@
-# ServicNexo
+# Amazon clone website
